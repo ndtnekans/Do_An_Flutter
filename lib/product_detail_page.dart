@@ -45,13 +45,6 @@ class ProductDetailPage extends StatelessWidget {
             ),
             const SizedBox(height: 16),
             // Product description (optional)
-            Text(
-              'This is a detailed description of the product. You can add more information here.',
-              style: const TextStyle(
-                fontSize: 16,
-                color: Colors.black87,
-              ),
-            ),
           ],
         ),
       ),
